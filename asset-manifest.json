@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meetings-React-App/static/css/main.cbc512fe.css",
+    "main.js": "/Meetings-React-App/static/js/main.a44d0111.js",
+    "static/js/453.4e6375dd.chunk.js": "/Meetings-React-App/static/js/453.4e6375dd.chunk.js",
+    "index.html": "/Meetings-React-App/index.html",
+    "main.cbc512fe.css.map": "/Meetings-React-App/static/css/main.cbc512fe.css.map",
+    "main.a44d0111.js.map": "/Meetings-React-App/static/js/main.a44d0111.js.map",
+    "453.4e6375dd.chunk.js.map": "/Meetings-React-App/static/js/453.4e6375dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc512fe.css",
+    "static/js/main.a44d0111.js"
+  ]
+}
